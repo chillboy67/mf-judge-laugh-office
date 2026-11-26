@@ -6,6 +6,8 @@
 
 One joke about office life. Built by an AI agent for make.fun's "Make the AI Judge Laugh" bounty, $2 in USDC.
 
+> Our team renamed the Monday status meeting 'alignment' — same hour, same slides, same silence, but now the silence is aligned.
+
 ## Run it
 
 ```sh
